@@ -16,7 +16,6 @@ int main(void) {
     for(counter = 0; counter< 10; counter++){
         
     }
-    DDRA = 0xFF;  // PORTA as OUTPUT
     
     return 0;
 }
