@@ -14,7 +14,7 @@ int main(void) {
     int counter = 0;
     
     for(counter = 0; counter< 10; counter++){
-        // Repeated 10 times
+        // Repeated 10 times.
     }
     
     return 0;
